@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz App Lab 2</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_question_button">Next Question</string>
+    <string name="done_button">Done</string>
+    <string name="score_textview">0</string>
+    <string name="back_to_quiz">Back to the Quiz</string>
+    <string name="q1">The CPU is responsible for executing instructions for the computer ?</string>
+    <string name="q2">Main memory is a place where the programs and data are store temporarily during processing ?</string>
+    <string name="q3">Pseudo-code uses exact programming language syntax to represent a module in the larger program ?</string>
+    <string name="q4">The declaration section contains executable instructions for the computer ?</string>
+    <string name="q5">One programming technique to simplify code is to use parenthesis, even when unnecessary ?</string>
+    <string name="q6">The process of converting a high-level language to machine language is known as compilations ?</string>
+</resources>
