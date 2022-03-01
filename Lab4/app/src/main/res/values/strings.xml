@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab 4</string>
+    <string name="text_view">Welcome to the App</string>
+    <string name="button_name">Next Image</string>
+</resources>
