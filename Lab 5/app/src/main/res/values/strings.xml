@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Radio 2022-03-11</string>
+
+    <string-array name="station_names">
+        <item>Good station</item>
+        <item>Sainte Famille</item>
+    </string-array>
+
+    <string-array name="uri">
+        <item>http://stream.whus.org:8000/whusfm</item>
+        <item>http://stream.whus.org:8000/whusfm</item>
+    </string-array>
+</resources>
