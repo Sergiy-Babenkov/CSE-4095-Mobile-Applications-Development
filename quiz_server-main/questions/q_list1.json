@@ -1,0 +1,94 @@
+{
+  "questions":  [
+    {
+      "question": "JSON stands for ?",
+      "answer1": "JavaScript Object Notation",
+      "answer2": "Java Object Notation",
+      "answer3": "JavaScript Object Normalization",
+      "answer4": "JavaScript Object-Oriented Notation",
+      "correct": "JavaScript Object Notation",
+      "image":"UCONN.jpg"
+    },
+    {
+      "question": "JSON is a _____ for storing and transporting data.",
+      "answer1": "xml format",
+      "answer2": "text format",
+      "answer3": "JavaScript",
+      "answer4": "php format",
+      "correct": "text format",
+      "image":"C8.jpg"
+    },
+    {
+      "question": "What is the full name of MICR ?",
+      "answer1": "Magnetic Inkjet Character Reader",
+      "answer2": "Magnetic Isolated Character Responsive",
+      "answer3": "Magnetic Ink Character Reader",
+      "answer4": "Magnetic Isolated Character Responsive",
+      "correct": "Magnetic Ink Character Reader",
+      "image":"F1.jpg"
+    },
+    {
+      "question": "What is the full name of ALU ?",
+      "answer1": "Arithmetic Logic Unit",
+      "answer2": "Arithmetic Local Unit",
+      "answer3": "Advance Logical Unit",
+      "answer4": "None of these",
+      "correct": "Arithmetic Logic Unit",
+      "image":"NFT.jpg"
+    },
+    {
+      "question": "What is the full name of SDRAM ?",
+      "answer1": "Special Dynamic Read Access Memory",
+      "answer2": "Synchronous Dynamic Read Access Memory",
+      "answer3": "Special Dynamic Random Access Memory",
+      "answer4": "Synchronous Dynamic Random Access Memory",
+      "correct": "Synchronous Dynamic Random Access Memory",
+      "image":"stamford_harbor.jpg"
+    },
+    {
+      "question": "A type of instruction that produce several lines of machine language code is a ?",
+      "answer1": "Assemble",
+      "answer2": "Address",
+      "answer3": "Mnemonic",
+      "answer4": "Macro",
+      "correct": "Macro",
+      "image":"UCONN.jpg"
+    },
+    {
+      "question": "____ is a memory on which data can be written only once.",
+      "answer1": "EPROM",
+      "answer2": "PROM",
+      "answer3": "ROM",
+      "answer4": "RAM",
+      "correct": "PROM",
+      "image":"C8.jpg"
+    },
+    {
+      "question": "Which language is directly understood by the computer without translation program?",
+      "answer1": "Machine language",
+      "answer2": "High level language",
+      "answer3": "BASIC language",
+      "answer4": "Assembly language",
+      "correct": "Machine language",
+      "image":"NFT.jpg"
+    },
+    {
+      "question": "The team at Intel that built the first microprocessor was headed by ?",
+      "answer1": "Marcian E (Ted) Hoff",
+      "answer2": "Stan mazor",
+      "answer3": "Victor poor",
+      "answer4": "Seymour cray",
+      "correct": "Victor poor",
+      "image":"F1.jpg"
+    },
+    {
+      "question": "Which of the following is associated with second generation computers ?",
+      "answer1": "Magnetic core memory",
+      "answer2": "Operating core memory",
+      "answer3": "Transistors",
+      "answer4": "All of these",
+      "correct": "All of these",
+      "image":"C8.jpg"
+    }
+  ]
+}
